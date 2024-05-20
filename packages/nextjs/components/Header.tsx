@@ -5,6 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Bars3Icon, BugAntIcon } from "@heroicons/react/24/outline";
+import { SwitchTheme } from "~~/components/SwitchTheme";
 import { FaucetButton, RainbowKitCustomConnectButton } from "~~/components/scaffold-eth";
 import { useOutsideClick } from "~~/hooks/scaffold-eth";
 
@@ -105,6 +106,7 @@ export const Header = () => {
         <RainbowKitCustomConnectButton />
         <FaucetButton />
       </div>
+      <SwitchTheme className="pointer-events-auto  ? self-end md:self-auto" />
     </div>
   );
 };
