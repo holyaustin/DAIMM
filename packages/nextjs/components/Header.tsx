@@ -40,7 +40,7 @@ export const HeaderMenuLinks = () => {
               passHref
               className={`${
                 isActive ? "bg-secondary shadow-md" : ""
-              } hover:bg-secondary hover:shadow-md focus:!bg-secondary active:!text-neutral py-1.5 px-3 text-2xl  rounded-full gap-2 grid grid-flow-col`}
+              } hover:bg-secondary hover:shadow-md focus:!bg-secondary active:!text-neutral py-2 px-5 text-2xl  rounded-full gap-2 grid grid-flow-col`}
             >
               {icon}
               <span>{label}</span>
@@ -101,7 +101,7 @@ export const Header = () => {
           <HeaderMenuLinks />
         </ul>
       </div>
-      <div className="navbar-end flex-grow mr-4">
+      <div className="navbar-end flex-grow mr-10">
         <RainbowKitCustomConnectButton />
         <FaucetButton />
       </div>
