@@ -22,6 +22,13 @@ const Home: NextPage = () => {
             <Address address={connectedAddress} />
           </div>
           <p className="text-center text-lg">
+          Key Features
+Decentralized Ledger: Utilize blockchain to maintain a transparent and immutable record of transactions.
+Smart Contracts: Automate transactions and enforce rules without the need for intermediaries.
+Tokenization: Introduce a native utility token for transactions within the marketplace.
+IP Protection: Ensure that AI models are protected through encryption and ownership verification.
+Reputation System: Implement a reputation and review system to build trust among users.
+API Integrations: Allow seamless integration of AI models into various applications and platforms.
             Get started by editing{" "}
             <code className="italic bg-base-300 text-base font-bold max-w-full break-words break-all inline-block">
               packages/nextjs/app/page.tsx
