@@ -90,7 +90,7 @@ Legal Advisors: Ensure compliance with relevant laws and regulations.
 10. Contact Information
 For further information, please contact:
 
-Name: John Doe
-Email: <john.doe@example.com>
+Name: Augustine Onuora
+Email: <holyaustin@yahoo.com>
 Phone: +1 234 567 890
 This proposal outlines the vision, objectives, and implementation strategy for the Decentralized AI Model Marketplace, aiming to create a robust platform that democratizes access to AI technology.
