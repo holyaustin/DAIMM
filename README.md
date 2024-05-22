@@ -1,4 +1,4 @@
-# 🏗 Scaffold-ETH 2
+# 🏗 DAIMM - (Decentralized AI Model Marketplace)
 
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
@@ -7,12 +7,13 @@
 
 🧪 The rapid advancement in Artificial Intelligence (AI) has led to the creation of diverse AI models that serve various purposes across multiple industries. However, accessing, sharing, and monetizing these models remain centralized, creating barriers for both AI developers and consumers. This project proposes the creation of a Decentralized AI Model Marketplace (DAIMM), leveraging blockchain technology to enable a transparent, secure, and efficient platform for trading AI models.
 
-2. Objectives
+2. Overview
 Decentralization: Eliminate intermediaries to reduce costs and increase transparency.
 Security: Ensure secure transactions and intellectual property protection using blockchain.
 Accessibility: Create an open marketplace where AI developers can monetize their models and consumers can easily access a wide range of AI tools.
 Interoperability: Enable seamless integration and utilization of AI models across different platforms.
-3. Key Features
+
+## Key Features
 Decentralized Ledger: Utilize blockchain to maintain a transparent and immutable record of transactions.
 Smart Contracts: Automate transactions and enforce rules without the need for intermediaries.
 Tokenization: Introduce a native utility token for transactions within the marketplace.
