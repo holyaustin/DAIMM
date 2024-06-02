@@ -21,7 +21,17 @@ export const menuLinks: HeaderMenuLink[] = [
     href: "/",
   },
   {
-    label: "Debug Contracts",
+    label: "Register Model",
+    href: "/debug",
+    icon: <BugAntIcon className="h-4 w-4" />,
+  },
+  {
+    label: "Explore Marketplace",
+    href: "/debug",
+    icon: <BugAntIcon className="h-4 w-4" />,
+  },
+  {
+    label: "Create an AI Model",
     href: "/debug",
     icon: <BugAntIcon className="h-4 w-4" />,
   },
