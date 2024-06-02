@@ -23,6 +23,6 @@
       }
     ]
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/page.jsx", "app/page.jsx", "app/encrypt/page.jsx", "app/decrypt/page.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/page.jsx", "app/page.jsx", "../hardhat/encrypt/page.jsx", "../hardhat/decrypt/page.jsx"],
   "exclude": ["node_modules"]
 }
